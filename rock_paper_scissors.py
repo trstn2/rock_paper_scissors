@@ -1,3 +1,7 @@
+# Tristan
+# December 11th 2024
+# Rock Paper Scissor game.
+
 import random
 import sys
 
